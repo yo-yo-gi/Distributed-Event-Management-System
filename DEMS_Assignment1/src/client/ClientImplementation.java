@@ -455,7 +455,7 @@ public class ClientImplementation {
     public String verifyID(String id) throws IOException {
 	if (id == null) {
 	    System.out.println(
-		    "ID cannot be null. It should be constructed from the acronym of their branch’s city i.e TOR, OTW or MTL followed by C or M for user or Manager respectively followed by four digit unique number.");
+		    "ID cannot be null. It should be constructed from the acronym of their branchâ€™s city i.e TOR, OTW or MTL followed by C or M for user or Manager respectively followed by four digit unique number.");
 	    systemHome();
 	}
 
