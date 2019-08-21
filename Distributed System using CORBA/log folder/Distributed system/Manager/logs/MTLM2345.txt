@@ -1,0 +1,36 @@
+Jun 07, 2019 11:25:29 AM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM2345
+Jun 07, 2019 11:25:34 AM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 11:25:36 AM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jun 07, 2019 12:22:25 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM2345
+Jun 07, 2019 12:22:27 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:22:47 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:25:10 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM2345
+Jun 07, 2019 12:25:26 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:25:40 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:25:53 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM2345
+Jun 07, 2019 12:25:54 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:26:01 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:26:05 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM2345
+Jun 07, 2019 12:26:11 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 12:26:14 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jun 07, 2019 12:26:20 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM2345
+Jun 07, 2019 12:26:22 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 2. Remove an event
+Jun 07, 2019 12:26:28 PM client.ClientImplementation removeEvent
+INFO: Manager removing event from system.

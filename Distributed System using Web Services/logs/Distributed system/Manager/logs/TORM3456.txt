@@ -1,0 +1,138 @@
+Jul 16, 2019 11:54:27 AM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 11:54:30 AM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 11:55:08 AM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 11:55:26 AM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 11:55:28 AM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 11:55:51 AM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 12:09:36 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:09:44 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 4. Book new event for customer
+Jul 16, 2019 12:10:37 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 12:10:45 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:10:59 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 7. Swap event for customer
+Jul 16, 2019 12:12:42 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 12:13:00 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:13:03 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 7. Swap event for customer
+Jul 16, 2019 12:14:18 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 12:14:27 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:14:35 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 5. Get booking schedule for customer
+Jul 16, 2019 12:14:44 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 12:39:07 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:39:17 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 12:39:23 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 12:39:53 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:39:56 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 12:40:13 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 12:40:27 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:41:04 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 12:41:25 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 12:55:22 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:55:27 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 12:55:35 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 12:55:38 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:55:39 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 12:55:49 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 12:56:10 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:56:12 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 16, 2019 12:56:13 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 16, 2019 12:56:22 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 12:56:23 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 16, 2019 12:56:24 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 16, 2019 1:10:55 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 1:10:56 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:11:07 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 1:11:10 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 1:11:11 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:11:23 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 1:23:02 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 1:23:03 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:23:17 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 1:23:22 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 1:23:23 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:23:30 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 1:33:15 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 1:33:18 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:33:29 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 1:33:31 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 1:33:32 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:33:54 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 1:46:09 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 1:46:13 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:46:25 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 1:46:26 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 16, 2019 1:46:27 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:46:35 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 20, 2019 8:59:15 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 20, 2019 8:59:30 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 20, 2019 8:59:35 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 20, 2019 8:59:51 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM3456
+Jul 20, 2019 8:59:52 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 20, 2019 8:59:56 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.

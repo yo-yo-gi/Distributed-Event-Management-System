@@ -1,0 +1,6 @@
+Jun 06, 2019 8:05:36 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM7777
+Jun 06, 2019 8:05:44 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 06, 2019 8:05:45 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.

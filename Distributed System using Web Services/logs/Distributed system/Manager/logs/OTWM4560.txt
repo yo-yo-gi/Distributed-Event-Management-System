@@ -1,0 +1,102 @@
+Jun 07, 2019 12:32:39 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:32:46 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:33:27 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:33:56 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:33:57 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:34:22 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:34:40 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:34:42 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:35:19 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:41:29 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:41:34 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:42:05 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:42:16 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:42:19 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:42:58 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:43:07 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:43:09 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:43:34 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:45:30 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:45:35 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:46:09 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:46:14 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:46:16 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:46:40 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:46:43 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:46:46 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:47:11 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:56:22 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:56:27 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:56:50 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:57:06 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:57:08 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:57:47 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:57:51 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 12:57:55 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:58:21 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 1:19:35 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 1:19:43 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 1:19:44 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jun 07, 2019 1:20:17 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jun 07, 2019 1:20:20 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 1:20:22 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 16, 2019 11:12:31 AM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jul 16, 2019 11:13:17 AM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 11:13:40 AM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 11:13:45 AM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jul 16, 2019 11:13:48 AM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 11:14:14 AM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 11:14:26 AM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id OTWM4560
+Jul 16, 2019 11:14:29 AM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 11:14:54 AM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.

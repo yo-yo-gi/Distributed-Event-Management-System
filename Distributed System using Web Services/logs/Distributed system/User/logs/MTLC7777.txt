@@ -1,0 +1,30 @@
+Jun 07, 2019 10:35:43 AM client.ClientImplementation userOperations
+INFO: User ID: MTLC7777 User is allowed to perform operations in this DEMS
+Jun 07, 2019 10:35:46 AM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jun 07, 2019 10:35:46 AM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jun 07, 2019 10:35:51 AM client.ClientImplementation userOperations
+INFO: User ID: MTLC7777 User is allowed to perform operations in this DEMS
+Jun 07, 2019 10:35:54 AM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 10:36:02 AM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jun 07, 2019 10:36:05 AM client.ClientImplementation userOperations
+INFO: User ID: MTLC7777 User is allowed to perform operations in this DEMS
+Jun 07, 2019 10:36:06 AM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jun 07, 2019 10:36:06 AM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jun 07, 2019 10:36:21 AM client.ClientImplementation userOperations
+INFO: User ID: MTLC7777 User is allowed to perform operations in this DEMS
+Jun 07, 2019 10:36:24 AM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 10:36:32 AM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jun 07, 2019 10:38:05 AM client.ClientImplementation userOperations
+INFO: User ID: MTLC7777 User is allowed to perform operations in this DEMS
+Jun 07, 2019 10:38:07 AM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 10:38:14 AM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system

@@ -1,0 +1,979 @@
+Jun 06, 2019 8:01:40 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 06, 2019 8:03:01 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  cancelevent with Event Type: CONFERENCES Event Id: TORA100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0
+Jun 06, 2019 8:03:01 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to cancel the event---------
+Jun 06, 2019 8:03:01 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event capacity has increased after cancelling event
+Jun 06, 2019 8:03:01 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event capacity has increased after cancelling event
+Jun 06, 2019 8:03:01 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 06, 2019 8:04:54 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:04:54 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:04:54 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:04:54 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:04:54 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 06, 2019 8:05:02 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:05:02 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:05:02 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:02 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:02 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 06, 2019 8:05:07 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:05:07 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:05:07 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:07 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:07 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 06, 2019 8:05:45 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:05:45 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:05:45 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:45 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:45 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 06, 2019 8:06:25 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:06:25 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:06:25 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:06:25 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 06, 2019 8:06:25 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:55:35 AM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 1:56:39 AM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 1:56:39 AM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:56:39 AM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:56:39 AM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:56:39 AM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 10:27:26 AM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 10:28:11 AM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 10:28:11 AM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 10:28:11 AM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 10:28:11 AM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 10:28:11 AM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 10:32:51 AM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  cancelevent with Event Type: TRADE SHOWS Event Id: TORA100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0
+Jun 07, 2019 10:32:51 AM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to cancel the event---------
+Jun 07, 2019 10:32:51 AM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event capacity has increased after cancelling event
+Jun 07, 2019 10:32:51 AM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event capacity has increased after cancelling event
+Jun 07, 2019 10:32:51 AM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 10:34:13 AM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 10:34:13 AM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 10:34:13 AM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 10:34:13 AM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 10:34:13 AM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 10:45:57 AM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 10:52:00 AM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 11:25:02 AM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 11:25:36 AM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 11:25:36 AM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 11:25:36 AM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 11:25:36 AM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 11:25:36 AM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  bookevent with Event Type: SEMINARS Event Id: TORE100519 Server Port: 5555 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to book the new event---------
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:27:13 AM EDT
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServer receiverequest
+INFO: Result is: Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jun 07, 2019 11:27:13 AM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 11:36:08 AM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  bookevent with Event Type: SEMINARS Event Id: TORE100519 Server Port: 5555 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to book the new event---------
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:37:49 AM EDT
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServer receiverequest
+INFO: Result is: Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jun 07, 2019 11:37:49 AM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 11:39:54 AM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 11:48:20 AM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 12:21:16 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 12:22:47 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  addeventmanager with Event Type: CONFERENCES Event Id: TORA100519 Server Port: 5555 User Id: null Capacity: 2
+Jun 07, 2019 12:22:47 PM torontoServer.TorontoServer receiverequest
+INFO: Adding new event at montreal server by manager
+Jun 07, 2019 12:22:47 PM torontoServer.TorontoServerImplementation addEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:22:47 PM EDT
+Jun 07, 2019 12:22:47 PM torontoServer.TorontoServerImplementation addEvent
+INFO: SUCCESS
+Jun 07, 2019 12:22:47 PM torontoServer.TorontoServerImplementation addEvent
+INFO: Event with Event ID:  TORA100519  has been successfully updated in the DEMS
+Jun 07, 2019 12:22:47 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event with Event ID:  TORA100519  has been successfully updated in the DEMS
+Jun 07, 2019 12:22:47 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event with Event ID:  TORA100519  has been successfully updated in the DEMS
+Jun 07, 2019 12:22:47 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:24:55 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 12:26:14 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 12:26:14 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:26:14 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 12:26:14 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 12:26:14 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:32:00 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 12:40:25 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 12:45:05 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation listEventAvailability
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:50:44 PM EDT
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 7777 User Id: null Capacity: 0
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA090619    Capacity: 2
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 7777 User Id: null Capacity: 0
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLE230719    Capacity: 1
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 7777 User Id: null Capacity: 0
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA080619    Capacity: 2
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation listEventAvailability
+INFO: --SUCCESS--
+Jun 07, 2019 12:50:44 PM torontoServer.TorontoServerImplementation listEventAvailability
+INFO: Below is the list of all the available events in the System: 
+Event type: CONFERENCES
+Event Id: TORA100519    Capacity: 2
+Event Id: TORE100519    Capacity: 2
+Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA090619    Capacity: 2
+Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLE230719    Capacity: 1
+Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA080619    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation listEventAvailability
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:50:52 PM EDT
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 7777 User Id: null Capacity: 0
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA090619    Capacity: 2
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 7777 User Id: null Capacity: 0
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLE230719    Capacity: 1
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 7777 User Id: null Capacity: 0
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA080619    Capacity: 2
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation listEventAvailability
+INFO: --SUCCESS--
+Jun 07, 2019 12:50:52 PM torontoServer.TorontoServerImplementation listEventAvailability
+INFO: Below is the list of all the available events in the System: 
+Event type: SEMINARS
+Event Id: TORA100519    Capacity: 2
+Event Id: TORE100519    Capacity: 2
+Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA090619    Capacity: 2
+Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLE230719    Capacity: 1
+Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA080619    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation listEventAvailability
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:51:06 PM EDT
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 7777 User Id: null Capacity: 0
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA090619    Capacity: 2
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 7777 User Id: null Capacity: 0
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLE230719    Capacity: 1
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 7777 User Id: null Capacity: 0
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA080619    Capacity: 2
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation listEventAvailability
+INFO: --SUCCESS--
+Jun 07, 2019 12:51:06 PM torontoServer.TorontoServerImplementation listEventAvailability
+INFO: Below is the list of all the available events in the System: 
+Event type: TRADE SHOWS
+Event Id: TORA100519    Capacity: 2
+Event Id: TORE100519    Capacity: 2
+Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA090619    Capacity: 2
+Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLE230719    Capacity: 1
+Event Id: MTLA100519    Capacity: 2 
+Event Id: MTLE100519    Capacity: 2 
+Event Id: MTLA080619    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+
+Jun 07, 2019 12:56:00 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 1:01:54 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 1:01:54 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:01:54 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:01:54 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:01:54 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:03:20 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 1:03:20 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:03:20 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:03:20 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:03:20 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:03:57 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 1:03:57 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:03:57 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:03:57 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:03:57 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:06:00 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 01:05:59 PM EDT
+Jun 07, 2019 1:06:00 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  bookevent with Event Type: CONFERENCES Event Id: OTWE080619 Server Port: 6666 User Id: TORC1234 Capacity: 0
+Jun 07, 2019 1:06:00 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Item ID: OTWE080619 has been successfully issued to the user with user ID: TORC1234;
+Jun 07, 2019 1:06:00 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Item ID: OTWE080619 has been successfully issued to the user with user ID: TORC1234;
+Jun 07, 2019 1:06:00 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 1:06:41 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 01:06:41 PM EDT
+Jun 07, 2019 1:06:41 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  bookevent with Event Type: CONFERENCES Event Id: MTLA090619 Server Port: 7777 User Id: TORC1234 Capacity: 0
+Jun 07, 2019 1:06:41 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Item ID: MTLA090619 has been successfully issued to the user with user ID: TORC1234;
+Jun 07, 2019 1:06:41 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Item ID: MTLA090619 has been successfully issued to the user with user ID: TORC1234;
+Jun 07, 2019 1:06:41 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 1:07:36 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 01:07:36 PM EDT
+Jun 07, 2019 1:07:36 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  bookevent with Event Type: TRADE SHOWS Event Id: MTLA080619 Server Port: 7777 User Id: TORC1234 Capacity: 0
+Jun 07, 2019 1:07:36 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Item ID: MTLA080619 has been successfully issued to the user with user ID: TORC1234;
+Jun 07, 2019 1:07:36 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Item ID: MTLA080619 has been successfully issued to the user with user ID: TORC1234;
+Jun 07, 2019 1:07:36 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 1:08:22 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 01:08:22 PM EDT
+Jun 07, 2019 1:08:22 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Customer can book at most 3 events from other cities overall in a month.
+Jun 07, 2019 1:08:22 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 1:09:14 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 01:09:14 PM EDT
+Jun 07, 2019 1:09:14 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  bookevent with Event Type: SEMINARS Event Id: MTLE230719 Server Port: 7777 User Id: TORC1234 Capacity: 0
+Jun 07, 2019 1:09:14 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Item ID: MTLE230719 has been successfully issued to the user with user ID: TORC1234;
+Jun 07, 2019 1:09:14 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Item ID: MTLE230719 has been successfully issued to the user with user ID: TORC1234;
+Jun 07, 2019 1:09:14 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 1:09:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 01:09:43 PM EDT
+Jun 07, 2019 1:09:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Event not available.
+Jun 07, 2019 1:09:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Event does not exist in the server
+Jun 07, 2019 1:09:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 1:13:04 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  cancelevent with Event Type: CONFERENCES Event Id: MTLA090619 Server Port: 7777 User Id: TORC1234 Capacity: 0
+Jun 07, 2019 1:13:04 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event capacity has increased after cancelling event
+Jun 07, 2019 1:13:04 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: The Result is: 
+Jun 07, 2019 1:13:04 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Event capacity has increased after cancelling event
+Jun 07, 2019 1:13:04 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jun 07, 2019 1:16:34 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  removeuserevent with Event Type: TRADE SHOWS Event Id: MTLA080619 Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 1:16:34 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to remove event from user map---------
+Jun 07, 2019 1:16:34 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to remove event from user map---------
+Jun 07, 2019 1:16:34 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :event successfully removed from user list of montreal server
+Jun 07, 2019 1:16:34 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: event successfully removed from user list of montreal server
+Jun 07, 2019 1:16:34 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:19:44 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 1:19:44 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:19:44 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:19:44 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:19:44 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:20:22 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 1:20:22 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:20:22 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:20:22 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 1:20:22 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 2:07:52 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 2:11:30 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 2:12:53 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 2:19:56 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 2:21:52 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 2:45:52 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jun 07, 2019 2:47:06 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 07, 2019 2:47:06 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 2:47:06 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 2:47:06 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jun 07, 2019 2:47:06 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 2:50:51 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 05, 2019 7:13:59 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 05, 2019 7:25:56 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 05, 2019 7:31:11 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jul 05, 2019 7:31:11 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jul 05, 2019 7:31:11 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jul 05, 2019 7:31:11 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jul 05, 2019 7:31:11 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jul 07, 2019 7:03:29 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 7:11:10 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 7:12:38 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 7:15:00 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 7:18:37 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 7:20:30 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 7:22:12 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 8:42:14 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 8:45:30 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 8:46:58 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 8:49:45 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 8:54:24 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 8:58:10 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 8:58:31 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0 Old Event Type: null Old Event Id: null                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Jul 07, 2019 8:58:31 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jul 07, 2019 8:58:31 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jul 07, 2019 8:58:31 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jul 07, 2019 8:58:31 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2 
+
+Jul 07, 2019 8:58:31 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jul 07, 2019 10:51:57 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  swapevent with Event Type: SEMINARS Event Id: TORE100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLA100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  swapevent with Event Type: SEMINARS Event Id: TORE100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to swap event---------
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  checkoldevent with Event Type: null Event Id: null Server Port: 7777 User Id: MTLC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLA100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back 
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: 
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: 
+Jul 07, 2019 10:58:57 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jul 07, 2019 11:18:42 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  swapevent with Event Type: CONFERENCES Event Id: TORA100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0 Old Event Type: SEMINARS Old Event Id: MTLE100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  swapevent with Event Type: CONFERENCES Event Id: TORA100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to swap event---------
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  checkoldevent with Event Type: null Event Id: null Server Port: 7777 User Id: MTLC2345 Capacity: 0 Old Event Type: SEMINARS Old Event Id: MTLE100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back 
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: 
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: 
+Jul 07, 2019 11:20:05 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jul 07, 2019 11:21:55 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  swapevent with Event Type: CONFERENCES Event Id: TORA100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0 Old Event Type: CONFERENCES Old Event Id: TORE100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Jul 07, 2019 11:21:55 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  swapevent with Event Type: CONFERENCES Event Id: TORA100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0
+Jul 07, 2019 11:21:55 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to swap event---------
+Jul 07, 2019 11:21:55 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 07, 2019 11:21:55 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: 
+Jul 07, 2019 11:21:55 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 07, 2019 11:21:55 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :
+Jul 07, 2019 11:21:55 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: 
+Jul 07, 2019 11:21:55 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jul 07, 2019 11:23:58 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  checkoldevent with Event Type: null Event Id: null Server Port: 5555 User Id: MTLC2345 Capacity: 0 Old Event Type: CONFERENCES Old Event Id: TORA100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+Jul 07, 2019 11:23:58 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  checkoldevent with Event Type: null Event Id: null Server Port: 5555 User Id: MTLC2345 Capacity: 0
+Jul 07, 2019 11:23:58 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to check if old event is present or not---------
+Jul 07, 2019 11:23:58 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by montreal server :
+Jul 07, 2019 11:23:58 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: 
+Jul 07, 2019 11:23:58 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jul 07, 2019 11:29:22 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  checkoldevent with Event Type: null Event Id: null Server Port: 5555 User Id: MTLC2345 Capacity: 0 Old Event Type: CONFERENCES Old Event Id: TORA100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+Jul 07, 2019 11:29:22 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  checkoldevent with Event Type: null Event Id: null Server Port: 5555 User Id: MTLC2345 Capacity: 0
+Jul 07, 2019 11:29:22 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to check if old event is present or not---------
+Jul 07, 2019 11:29:22 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by montreal server :
+Jul 07, 2019 11:29:22 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: 
+Jul 07, 2019 11:29:22 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jul 07, 2019 11:38:00 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 07, 2019 11:38:48 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  cancelevent with Event Type: CONFERENCES Event Id: TORA100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0 Old Event Type: null Old Event Id: null                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+Jul 07, 2019 11:38:48 PM torontoServer.TorontoServer receiverequest
+INFO: Toronto server received request  cancelevent with Event Type: CONFERENCES Event Id: TORA100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0
+Jul 07, 2019 11:38:48 PM torontoServer.TorontoServer receiverequest
+INFO: ---------Request recieved to cancel the event---------
+Jul 07, 2019 11:38:48 PM torontoServer.TorontoServer receiverequest
+INFO: Respond send by toronto server :Event capacity has increased after cancelling event
+Jul 07, 2019 11:38:48 PM torontoServer.TorontoServer receiverequest
+INFO: Result is: Event capacity has increased after cancelling event
+Jul 07, 2019 11:38:48 PM torontoServer.TorontoServer receiverequest
+INFO: Sending reply////
+Jul 08, 2019 3:57:06 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLE100519
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back 
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: 
+
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:01:50 PM EDT
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  cancelevent with Event Type: TRADE SHOWS Event Id: MTLE100519 Server Port: 7777 User Id: TORC2345 Capacity: 0 Old Event Type: null Old Event Id: null
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event capacity has increased after cancelling event
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Event capacity has increased after cancelling event
+Jul 08, 2019 4:01:50 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:10:25 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLE100519
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back 
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: 
+
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  cancelevent with Event Type: TRADE SHOWS Event Id: MTLE100519 Server Port: 7777 User Id: TORC2345 Capacity: 0 Old Event Type: null Old Event Id: null
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event capacity has increased after cancelling event
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Event capacity has increased after cancelling event
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:10:34 PM EDT
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:10:34 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLE100519
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back 
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: 
+
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Event does not exist for provided customerId
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Event does not exist for provided customerId
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:12:31 PM EDT
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:12:31 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:16:47 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLE100519
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back 
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: 
+
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:19:27 PM EDT
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server sending request  cancelevent with Event Type: TRADE SHOWS Event Id: MTLE100519 Server Port: 7777 User Id: TORC2345 Capacity: 0 Old Event Type: null Old Event Id: null
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation send
+INFO: Toronto server got the respose back Event capacity has increased after cancelling event
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Event capacity has increased after cancelling event
+Jul 08, 2019 4:19:27 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:36:03 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Event has been canceled and capacity increased by 1. 
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:36:11 PM EDT
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Event ID: TORA100519 has been successfully issued to the user with user ID: TORC2345;
+
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Event ID: TORA100519 has been successfully issued to the user with user ID: TORC2345;
+
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Event has been canceled and capacity increased by 1. Event ID: TORA100519 has been successfully issued to the user with user ID: TORC2345;
+ Event swapped successfully
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:36:11 PM EDT
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:36:11 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:44:37 PM torontoServer.TorontoServer receiverequest
+INFO: Request received at toronto server.
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Event has been canceled and capacity increased by 1. 
+
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:44:43 PM EDT
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Event ID: TORA100519 has been successfully issued to the user with user ID: TORC2345;
+
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Event ID: TORA100519 has been successfully issued to the user with user ID: TORC2345;
+
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Event has been canceled and capacity increased by 1. 
+Event ID: TORA100519 has been successfully issued to the user with user ID: TORC2345;
+ Event swapped successfully
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:44:43 PM EDT
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Event ID: TORE100519 has been successfully issued to the user with user ID: TORC2345;
+
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: Event ID: TORE100519 has been successfully issued to the user with user ID: TORC2345;
+
+Jul 08, 2019 4:44:43 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:45:30 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:45:30 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: customer don't have event booking for event Id TORA100519
+
+Jul 08, 2019 4:45:30 PM torontoServer.TorontoServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:45:30 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:45:30 PM EDT
+Jul 08, 2019 4:45:30 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: User already has been regstered for the event. User can not book same event twice.
+Jul 08, 2019 4:45:30 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: result is: User already has been regstered for the event. User can not book same event twice.
+Jul 08, 2019 4:45:30 PM torontoServer.TorontoServerImplementation bookEvent
+INFO: Sending result back to the user.

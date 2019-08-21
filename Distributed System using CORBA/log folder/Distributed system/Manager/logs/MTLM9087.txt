@@ -1,0 +1,46 @@
+Jun 07, 2019 12:44:01 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM9087
+Jun 07, 2019 12:44:10 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:47:33 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM9087
+Jun 07, 2019 12:47:40 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:48:07 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:48:17 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM9087
+Jun 07, 2019 12:48:21 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:49:19 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:49:30 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM9087
+Jun 07, 2019 12:49:42 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 12:50:06 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 12:59:02 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM9087
+Jun 07, 2019 12:59:18 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 1:00:04 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 1:00:20 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM9087
+Jun 07, 2019 1:00:23 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 1:00:50 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 1:00:57 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM9087
+Jun 07, 2019 1:00:59 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jun 07, 2019 1:01:23 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jun 07, 2019 1:15:15 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM9087
+Jun 07, 2019 1:15:45 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 2. Remove an event
+Jun 07, 2019 1:16:34 PM client.ClientImplementation removeEvent
+INFO: Manager removing event from system.

@@ -1,0 +1,8 @@
+Jun 07, 2019 2:08:08 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM4444
+Jun 07, 2019 2:08:14 PM client.ClientImplementation managerOperations
+INFO: Manager has not chosen a valid option./nNeed to try again.
+Jun 07, 2019 2:08:14 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM4444
+Jun 07, 2019 2:11:41 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM4444

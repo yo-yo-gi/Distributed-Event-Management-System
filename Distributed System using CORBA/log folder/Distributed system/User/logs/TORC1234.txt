@@ -1,0 +1,42 @@
+Jun 07, 2019 1:04:28 PM client.ClientImplementation userOperations
+INFO: User ID: TORC1234 User is allowed to perform operations in this DEMS
+Jun 07, 2019 1:05:26 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 1:05:59 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jun 07, 2019 1:06:11 PM client.ClientImplementation userOperations
+INFO: User ID: TORC1234 User is allowed to perform operations in this DEMS
+Jun 07, 2019 1:06:19 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 1:06:41 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jun 07, 2019 1:06:47 PM client.ClientImplementation userOperations
+INFO: User ID: TORC1234 User is allowed to perform operations in this DEMS
+Jun 07, 2019 1:06:49 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 1:07:36 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jun 07, 2019 1:07:56 PM client.ClientImplementation userOperations
+INFO: User ID: TORC1234 User is allowed to perform operations in this DEMS
+Jun 07, 2019 1:08:00 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 1:08:22 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jun 07, 2019 1:08:33 PM client.ClientImplementation userOperations
+INFO: User ID: TORC1234 User is allowed to perform operations in this DEMS
+Jun 07, 2019 1:08:53 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 1:09:14 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jun 07, 2019 1:09:24 PM client.ClientImplementation userOperations
+INFO: User ID: TORC1234 User is allowed to perform operations in this DEMS
+Jun 07, 2019 1:09:26 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 1:09:43 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jun 07, 2019 1:18:00 PM client.ClientImplementation userOperations
+INFO: User ID: TORC1234 User is allowed to perform operations in this DEMS
+Jun 07, 2019 1:18:02 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jun 07, 2019 1:18:02 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system

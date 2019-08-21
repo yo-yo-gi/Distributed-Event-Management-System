@@ -1,0 +1,1027 @@
+Jun 06, 2019 8:01:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 06, 2019 8:04:37 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: The Result is: 
+Jun 06, 2019 8:04:37 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Event has been cancled and capacity increased by 1. 
+Jun 06, 2019 8:04:37 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jun 06, 2019 8:04:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:04:54 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:04:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3 
+
+Jun 06, 2019 8:04:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3 
+
+Jun 06, 2019 8:04:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 06, 2019 8:05:02 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:05:02 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:05:02 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:02 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:02 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 06, 2019 8:05:07 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:05:07 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:05:07 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:07 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 06, 2019 8:05:07 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 06, 2019 8:05:45 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:05:45 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:05:45 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3 
+
+Jun 06, 2019 8:05:45 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3 
+
+Jun 06, 2019 8:05:45 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 06, 2019 8:06:25 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:06:25 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 06, 2019 8:06:25 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3 
+
+Jun 06, 2019 8:06:25 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3 
+
+Jun 06, 2019 8:06:25 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:55:31 AM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 1:56:39 AM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 1:56:39 AM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:56:39 AM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 1:56:39 AM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 1:56:39 AM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 10:27:44 AM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 10:28:11 AM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 10:28:11 AM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 10:28:11 AM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 10:28:11 AM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 10:28:11 AM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 10:33:19 AM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  bookevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: MTLC2345 Capacity: 0
+Jun 07, 2019 10:33:19 AM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to book the new event---------
+Jun 07, 2019 10:33:19 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 10:33:19 AM EDT
+Jun 07, 2019 10:33:19 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jun 07, 2019 10:33:19 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Item ID: OTWE100519 has been successfully issued to the user with user ID: MTLC2345;
+
+Jun 07, 2019 10:33:19 AM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Item ID: OTWE100519 has been successfully issued to the user with user ID: MTLC2345;
+
+Jun 07, 2019 10:33:19 AM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Item ID: OTWE100519 has been successfully issued to the user with user ID: MTLC2345;
+
+Jun 07, 2019 10:33:19 AM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 10:34:13 AM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 10:34:13 AM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 10:34:13 AM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 1 
+
+Jun 07, 2019 10:34:13 AM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 1 
+
+Jun 07, 2019 10:34:13 AM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 10:36:02 AM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  bookevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: MTLC7777 Capacity: 0
+Jun 07, 2019 10:36:02 AM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to book the new event---------
+Jun 07, 2019 10:36:02 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 10:36:02 AM EDT
+Jun 07, 2019 10:36:02 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jun 07, 2019 10:36:02 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Item ID: OTWE100519 has been successfully issued to the user with user ID: MTLC7777;
+
+Jun 07, 2019 10:36:02 AM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Item ID: OTWE100519 has been successfully issued to the user with user ID: MTLC7777;
+
+Jun 07, 2019 10:36:02 AM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Item ID: OTWE100519 has been successfully issued to the user with user ID: MTLC7777;
+
+Jun 07, 2019 10:36:02 AM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 10:37:20 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 10:37:20 AM EDT
+Jun 07, 2019 10:37:20 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event is full
+Jun 07, 2019 10:37:20 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Event is full
+Jun 07, 2019 10:37:20 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 10:46:01 AM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 10:52:04 AM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 11:25:11 AM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 11:25:36 AM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 11:25:36 AM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 11:25:36 AM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 11:25:36 AM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 11:25:36 AM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 11:26:15 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:26:15 AM EDT
+Jun 07, 2019 11:26:15 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: User already has been regstered for the event. User can not book same event twice.
+Jun 07, 2019 11:26:15 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: User already has been regstered for the event. User can not book same event twice.
+Jun 07, 2019 11:26:15 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:26:38 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:26:38 AM EDT
+Jun 07, 2019 11:26:38 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event not available.
+Jun 07, 2019 11:26:38 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Event does not exist in the server
+Jun 07, 2019 11:26:38 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:27:13 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:27:13 AM EDT
+Jun 07, 2019 11:27:13 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: SEMINARS Event Id: TORE100519 Server Port: 5555 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:27:13 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:27:13 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:27:13 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:28:30 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:28:30 AM EDT
+Jun 07, 2019 11:28:30 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: CONFERENCES Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:28:30 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:28:30 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:28:30 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:28:37 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:28:37 AM EDT
+Jun 07, 2019 11:28:37 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: SEMINARS Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:28:37 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:28:37 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:28:37 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:28:45 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:28:45 AM EDT
+Jun 07, 2019 11:28:45 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: TRADE SHOWS Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:28:45 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:28:45 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:28:45 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:31:03 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:31:03 AM EDT
+Jun 07, 2019 11:31:03 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Customer can book at most 3 events from other cities overall in a month.
+Jun 07, 2019 11:31:03 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:36:03 AM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 11:36:39 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:36:39 AM EDT
+Jun 07, 2019 11:36:39 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: CONFERENCES Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:36:39 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:36:39 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:36:39 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:37:00 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:37:00 AM EDT
+Jun 07, 2019 11:37:00 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: SEMINARS Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:37:00 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:37:00 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:37:00 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:37:10 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:37:10 AM EDT
+Jun 07, 2019 11:37:10 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: TRADE SHOWS Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:37:10 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:37:10 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:37:10 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:37:49 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:37:49 AM EDT
+Jun 07, 2019 11:37:49 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: SEMINARS Event Id: TORE100519 Server Port: 5555 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:37:49 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:37:49 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: TORE100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:37:49 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:38:03 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:38:03 AM EDT
+Jun 07, 2019 11:38:03 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Customer can book at most 3 events from other cities overall in a month.
+Jun 07, 2019 11:38:03 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:39:52 AM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 11:40:24 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:40:24 AM EDT
+Jun 07, 2019 11:40:24 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: CONFERENCES Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:40:25 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:40:25 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:40:25 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:40:30 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:40:30 AM EDT
+Jun 07, 2019 11:40:30 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: SEMINARS Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:40:30 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:40:30 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:40:30 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:40:36 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:40:36 AM EDT
+Jun 07, 2019 11:40:36 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: TRADE SHOWS Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:40:36 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:40:36 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:40:36 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:40:58 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:40:58 AM EDT
+Jun 07, 2019 11:48:07 AM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 11:48:49 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:48:49 AM EDT
+Jun 07, 2019 11:48:49 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: CONFERENCES Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:48:49 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:48:49 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:48:49 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:48:56 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:48:56 AM EDT
+Jun 07, 2019 11:48:56 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: SEMINARS Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:48:56 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:48:56 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:48:56 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:49:04 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:49:04 AM EDT
+Jun 07, 2019 11:49:04 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server sending request  bookevent with Event Type: TRADE SHOWS Event Id: MTLA100519 Server Port: 7777 User Id: OTWC2345 Capacity: 0
+Jun 07, 2019 11:49:04 AM ottawaServer.OttawaServerImplementation send
+INFO: Ottawa server got the respose back Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:49:04 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Item ID: MTLA100519 has been successfully issued to the user with user ID: OTWC2345;
+Jun 07, 2019 11:49:04 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 11:49:17 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 11:49:17 AM EDT
+Jun 07, 2019 11:49:17 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Customer can book at most 3 events from other cities overall in a month.
+Jun 07, 2019 11:49:17 AM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 12:21:12 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 12:24:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 12:26:14 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:26:14 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:26:14 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:26:14 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:26:14 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:31:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 12:33:27 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:33:27 PM EDT
+Jun 07, 2019 12:33:27 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: New event with event type: CONFERENCES and event id as OTWE080619  has been successfully added in the system
+
+Jun 07, 2019 12:34:22 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:34:22 PM EDT
+Jun 07, 2019 12:34:22 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: New event with event type: CONFERENCES and event id as OTWE110619  has been successfully added in the system
+
+Jun 07, 2019 12:40:22 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 12:42:05 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:42:05 PM EDT
+Jun 07, 2019 12:42:05 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: New event with event type: CONFERENCES and event id as OTWE080619  has been successfully added in the system
+
+Jun 07, 2019 12:42:58 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:42:58 PM EDT
+Jun 07, 2019 12:42:58 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: New event with event type: CONFERENCES and event id as OTWE110619  has been successfully added in the system
+
+Jun 07, 2019 12:45:02 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 12:46:09 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:46:09 PM EDT
+Jun 07, 2019 12:46:09 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: New event with event type: CONFERENCES and event id as OTWE080619  has been successfully added in the system
+
+Jun 07, 2019 12:46:40 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:46:40 PM EDT
+Jun 07, 2019 12:46:40 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: New event with event type: CONFERENCES and event id as OTWE110619  has been successfully added in the system
+
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:50:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:50:52 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 12:51:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 12:55:58 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 12:56:50 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:56:50 PM EDT
+Jun 07, 2019 12:56:50 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: New event with event type: CONFERENCES and event id as OTWE080619  has been successfully added in the system
+
+Jun 07, 2019 12:57:47 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 12:57:47 PM EDT
+Jun 07, 2019 12:57:47 PM ottawaServer.OttawaServerImplementation addEvent
+INFO: New event with event type: CONFERENCES and event id as OTWE110619  has been successfully added in the system
+
+Jun 07, 2019 1:01:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 1:01:54 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:01:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 1:01:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 1 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 1:01:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:03:20 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 1:03:20 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:03:20 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 1:03:20 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 1:03:20 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:03:57 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 1:03:57 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:03:57 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 1:03:57 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 1:03:57 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:06:00 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  bookevent with Event Type: CONFERENCES Event Id: OTWE080619 Server Port: 6666 User Id: TORC1234 Capacity: 0
+Jun 07, 2019 1:06:00 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to book the new event---------
+Jun 07, 2019 1:06:00 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 01:06:00 PM EDT
+Jun 07, 2019 1:06:00 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jun 07, 2019 1:06:00 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Item ID: OTWE080619 has been successfully issued to the user with user ID: TORC1234;
+
+Jun 07, 2019 1:06:00 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Item ID: OTWE080619 has been successfully issued to the user with user ID: TORC1234;
+
+Jun 07, 2019 1:06:00 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Item ID: OTWE080619 has been successfully issued to the user with user ID: TORC1234;
+
+Jun 07, 2019 1:06:00 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:14:39 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Fri 2019.06.07 at 01:14:39 PM EDT
+Jun 07, 2019 1:14:39 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event is full
+Jun 07, 2019 1:14:39 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: Event is full
+Jun 07, 2019 1:14:39 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jun 07, 2019 1:16:34 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  removeuserevent with Event Type: TRADE SHOWS Event Id: MTLA080619 Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 1:16:34 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to remove event from user map---------
+Jun 07, 2019 1:16:34 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :
+Jun 07, 2019 1:16:34 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: 
+Jun 07, 2019 1:16:34 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:19:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 1:19:44 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:19:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 0 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 1:19:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+Event Id: OTWE080619    Capacity: 0 
+Event Id: OTWE110619    Capacity: 1 
+
+Jun 07, 2019 1:19:44 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 1:20:22 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 1:20:22 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 1:20:22 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 1:20:22 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 1:20:22 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 2:07:50 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 2:11:28 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 2:12:50 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 2:19:54 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 2:21:49 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 2:45:43 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jun 07, 2019 2:47:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 07, 2019 2:47:06 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jun 07, 2019 2:47:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 2:47:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jun 07, 2019 2:47:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jun 07, 2019 2:50:50 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 05, 2019 7:14:16 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 05, 2019 7:25:47 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 05, 2019 7:31:11 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jul 05, 2019 7:31:11 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jul 05, 2019 7:31:11 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jul 05, 2019 7:31:11 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jul 05, 2019 7:31:11 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jul 07, 2019 7:03:33 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 7:11:07 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 7:14:53 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 7:18:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 7:20:46 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 7:22:06 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 8:42:23 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 8:45:27 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 8:47:00 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 8:49:43 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 8:54:27 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 8:58:08 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 8:58:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0 Old Event Type: null Old Event Id: null                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Jul 07, 2019 8:58:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jul 07, 2019 8:58:31 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to lsit the availability of the event by manager---------
+Jul 07, 2019 8:58:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by otawa server :Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jul 07, 2019 8:58:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2 
+
+Jul 07, 2019 8:58:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jul 07, 2019 10:52:01 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 11:18:38 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 07, 2019 11:38:02 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 08, 2019 3:57:05 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Event has been cancled and capacity increased by 1. 
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLE100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to swap event---------
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:01:50 PM EDT
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event ID: OTWE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: customer don't have event booking for event Id OTWE100519Event has been cancled and capacity increased by 1. Event ID: OTWE100519 has been successfully issued to the user with user ID: OTWC2345;
+ Event swapped successfully
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: 
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by ottawa server :
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: 
+Jul 08, 2019 4:01:50 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jul 08, 2019 4:01:53 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:01:53 PM EDT
+Jul 08, 2019 4:01:53 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:01:53 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:10:28 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLE100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to swap event---------
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: 
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by ottawa server :
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: 
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Event has been canceled and capacity increased by 1. 
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:10:34 PM EDT
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event ID: OTWE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: customer don't have event booking for event Id OTWE100519
+Event has been canceled and capacity increased by 1. Event ID: OTWE100519 has been successfully issued to the user with user ID: OTWC2345;
+ Event swapped successfully
+Jul 08, 2019 4:10:34 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:10:37 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:10:37 PM EDT
+Jul 08, 2019 4:10:37 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:10:37 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLE100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to swap event---------
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: 
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by ottawa server :
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: 
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: customer don't have event booking for event Id OTWE100519
+
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jul 08, 2019 4:12:31 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:12:34 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:12:34 PM EDT
+Jul 08, 2019 4:12:34 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:12:34 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:16:45 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0 Old Event Type: TRADE SHOWS Old Event Id: MTLE100519                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServer receiverequest
+INFO: Ottawa server received request  swapevent with Event Type: TRADE SHOWS Event Id: OTWE100519 Server Port: 6666 User Id: TORC2345 Capacity: 0
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServer receiverequest
+INFO: ---------Request recieved to swap event---------
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: 
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServer receiverequest
+INFO: Respond send by ottawa server :
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServer receiverequest
+INFO: Result is: 
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServer receiverequest
+INFO: Sending reply////
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Event has been canceled and capacity increased by 1. 
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:19:27 PM EDT
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event ID: OTWE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: customer don't have event booking for event Id OTWE100519
+Event has been canceled and capacity increased by 1. Event ID: OTWE100519 has been successfully issued to the user with user ID: OTWC2345;
+ Event swapped successfully
+Jul 08, 2019 4:19:27 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:19:30 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:19:30 PM EDT
+Jul 08, 2019 4:19:30 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:19:30 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:36:04 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Event has been canceled and capacity increased by 1. 
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:36:11 PM EDT
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event ID: OTWA100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Event has been canceled and capacity increased by 1. Event ID: OTWA100519 has been successfully issued to the user with user ID: OTWC2345;
+ Event swapped successfully
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:36:11 PM EDT
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: result is: book event operation failed as no match found. Please try again.
+Jul 08, 2019 4:36:11 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Sending result back to the user.
+Jul 08, 2019 4:44:35 PM ottawaServer.OttawaServer receiverequest
+INFO: Request received at ottawa server.
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: The Result is: 
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Event has been canceled and capacity increased by 1. 
+
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:44:43 PM EDT
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event ID: OTWA100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Event has been canceled and capacity increased by 1. 
+Event ID: OTWA100519 has been successfully issued to the user with user ID: OTWC2345;
+ Event swapped successfully
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:44:43 PM EDT
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:44:43 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event ID: OTWE100519 has been successfully issued to the user with user ID: OTWC2345;
+
+Jul 08, 2019 4:45:30 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: The Result is: 
+Jul 08, 2019 4:45:30 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: customer don't have event booking for event Id OTWA100519
+
+Jul 08, 2019 4:45:30 PM ottawaServer.OttawaServerImplementation swapEvent
+INFO: Sending reply back to the client (User) 
+Jul 08, 2019 4:45:30 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: The current Date and time for this request is: Mon 2019.07.08 at 04:45:30 PM EDT
+Jul 08, 2019 4:45:30 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: ----SUCCESS----
+Jul 08, 2019 4:45:30 PM ottawaServer.OttawaServerImplementation bookEvent
+INFO: Event ID: OTWE100519 has been successfully issued to the user with user ID: OTWC2345;
+

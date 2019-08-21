@@ -1,0 +1,137 @@
+Jun 06, 2019 8:01:19 PM montrealServer.MontrealServer receiverequest
+INFO: Request received at Montreal server.
+Jun 06, 2019 8:03:01 PM montrealServer.MontrealServerImplementation cancelEvent
+INFO: Item belongs to CONCORDIA Library. SENDING REQUEST to CONCORDIA library to borrow an item
+Jun 06, 2019 8:03:01 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  cancelevent with Event Type: CONFERENCES Event Id: TORA100519 Server Port: 5555 User Id: MTLC2345 Capacity: 0
+Jun 06, 2019 8:03:01 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event capacity has increased after cancelling event
+Jun 06, 2019 8:03:01 PM montrealServer.MontrealServerImplementation cancelEvent
+INFO: RESPONSE recieved from CONCORDIA library. 
+Jun 06, 2019 8:03:01 PM montrealServer.MontrealServerImplementation cancelEvent
+INFO: The Result is: 
+Jun 06, 2019 8:03:01 PM montrealServer.MontrealServerImplementation cancelEvent
+INFO: 
+Event capacity has increased after cancelling event
+Jun 06, 2019 8:03:01 PM montrealServer.MontrealServerImplementation cancelEvent
+INFO: Sending reply back to the client (User) 
+Jun 06, 2019 8:04:54 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: The current Date and time for this request is: Thu 2019.06.06 at 08:04:54 PM EDT
+Jun 06, 2019 8:04:54 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:04:54 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2
+Jun 06, 2019 8:04:54 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:04:54 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3
+Jun 06, 2019 8:04:54 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: --SUCCESS--
+Jun 06, 2019 8:04:54 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: Below is the list of all the available events in the System: 
+Event type: CONFERENCES
+Event Id: MTLA100519    Capacity: 2
+Event Id: MTLE100519    Capacity: 2
+Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3
+
+Jun 06, 2019 8:05:02 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: The current Date and time for this request is: Thu 2019.06.06 at 08:05:02 PM EDT
+Jun 06, 2019 8:05:02 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:05:02 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2
+Jun 06, 2019 8:05:02 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: SEMINARS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:05:02 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Jun 06, 2019 8:05:02 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: --SUCCESS--
+Jun 06, 2019 8:05:02 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: Below is the list of all the available events in the System: 
+Event type: SEMINARS
+Event Id: MTLA100519    Capacity: 2
+Event Id: MTLE100519    Capacity: 2
+Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+
+Jun 06, 2019 8:05:07 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: The current Date and time for this request is: Thu 2019.06.06 at 08:05:07 PM EDT
+Jun 06, 2019 8:05:07 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:05:07 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2
+Jun 06, 2019 8:05:07 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: TRADE SHOWS Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:05:07 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+Jun 06, 2019 8:05:07 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: --SUCCESS--
+Jun 06, 2019 8:05:07 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: Below is the list of all the available events in the System: 
+Event type: TRADE SHOWS
+Event Id: MTLA100519    Capacity: 2
+Event Id: MTLE100519    Capacity: 2
+Event Id: TORA100519    Capacity: 2 
+Event Id: TORE100519    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 2
+
+Jun 06, 2019 8:05:45 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: The current Date and time for this request is: Thu 2019.06.06 at 08:05:45 PM EDT
+Jun 06, 2019 8:05:45 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:05:45 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2
+Jun 06, 2019 8:05:45 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:05:45 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3
+Jun 06, 2019 8:05:45 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: --SUCCESS--
+Jun 06, 2019 8:05:45 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: Below is the list of all the available events in the System: 
+Event type: CONFERENCES
+Event Id: MTLA100519    Capacity: 2
+Event Id: MTLE100519    Capacity: 2
+Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3
+
+Jun 06, 2019 8:06:25 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: The current Date and time for this request is: Thu 2019.06.06 at 08:06:25 PM EDT
+Jun 06, 2019 8:06:25 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 5555 User Id: null Capacity: 0
+Jun 06, 2019 8:06:25 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2
+Jun 06, 2019 8:06:25 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server sending request  listeventmanager with Event Type: CONFERENCES Event Id: null Server Port: 6666 User Id: null Capacity: 0
+Jun 06, 2019 8:06:25 PM montrealServer.MontrealServerImplementation send
+INFO: Montreal server got the respose back Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3
+Jun 06, 2019 8:06:25 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: --SUCCESS--
+Jun 06, 2019 8:06:25 PM montrealServer.MontrealServerImplementation listEventAvailability
+INFO: Below is the list of all the available events in the System: 
+Event type: CONFERENCES
+Event Id: MTLA100519    Capacity: 2
+Event Id: MTLE100519    Capacity: 2
+Event Id: TORA100519    Capacity: 3 
+Event Id: TORE100519    Capacity: 2
+Event Id: OTWA100519    Capacity: 2 
+Event Id: OTWE100519    Capacity: 3
+

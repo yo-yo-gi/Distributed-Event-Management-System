@@ -1,0 +1,48 @@
+Jun 07, 2019 12:50:30 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM6785
+Jun 07, 2019 12:50:42 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 12:50:44 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jun 07, 2019 12:50:48 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM6785
+Jun 07, 2019 12:50:51 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 12:50:52 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jun 07, 2019 12:51:03 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM6785
+Jun 07, 2019 12:51:05 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 12:51:06 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jun 07, 2019 1:01:45 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM6785
+Jun 07, 2019 1:01:53 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 1:01:54 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jun 07, 2019 1:03:15 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM6785
+Jun 07, 2019 1:03:17 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 1:03:20 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jun 07, 2019 1:03:51 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM6785
+Jun 07, 2019 1:03:53 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 1:03:57 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jun 07, 2019 1:10:22 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM6785
+Jun 07, 2019 1:10:33 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 6. Cancel event for customer
+Jun 07, 2019 1:13:04 PM client.ClientImplementation cancelEvent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 11:18:02 AM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id TORM6785
+Jul 16, 2019 11:18:05 AM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 16, 2019 11:18:07 AM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.

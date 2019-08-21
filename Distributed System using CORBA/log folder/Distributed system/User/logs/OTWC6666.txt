@@ -1,0 +1,12 @@
+Jun 07, 2019 10:37:07 AM client.ClientImplementation userOperations
+INFO: User ID: OTWC6666 User is allowed to perform operations in this DEMS
+Jun 07, 2019 10:37:08 AM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jun 07, 2019 10:37:08 AM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jun 07, 2019 10:37:16 AM client.ClientImplementation userOperations
+INFO: User ID: OTWC6666 User is allowed to perform operations in this DEMS
+Jun 07, 2019 10:37:17 AM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jun 07, 2019 10:37:20 AM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system

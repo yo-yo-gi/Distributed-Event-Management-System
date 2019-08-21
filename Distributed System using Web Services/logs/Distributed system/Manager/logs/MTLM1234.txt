@@ -1,0 +1,130 @@
+Jun 07, 2019 10:28:04 AM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jun 07, 2019 10:28:10 AM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jun 07, 2019 10:28:11 AM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 05, 2019 7:17:06 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 05, 2019 7:17:13 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 05, 2019 7:17:14 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 05, 2019 7:28:48 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 05, 2019 7:28:54 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 05, 2019 7:30:56 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 05, 2019 7:31:07 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 05, 2019 7:31:09 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 05, 2019 7:31:11 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 7:04:03 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 7:04:08 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 7:04:10 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 7:11:21 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 7:11:23 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 7:11:24 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 7:13:36 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 7:13:38 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 7:13:40 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 7:15:22 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 7:15:23 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 7:15:25 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 7:18:59 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 7:19:01 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 7:19:02 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 7:20:57 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 7:20:58 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 07, 2019 7:22:30 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 7:22:45 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 7:22:47 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 8:42:57 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 8:43:16 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 8:43:49 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 8:45:52 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 8:45:54 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 8:47:10 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 8:47:12 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 8:47:12 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 8:50:03 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 8:50:06 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 8:50:06 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 8:53:30 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 8:53:33 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 8:53:39 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 8:55:09 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 8:55:11 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 8:55:11 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 8:58:27 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 07, 2019 8:58:29 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 07, 2019 8:58:31 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 07, 2019 8:58:50 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 16, 2019 12:51:35 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 16, 2019 12:51:40 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 16, 2019 12:51:43 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 16, 2019 12:51:53 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 16, 2019 12:51:57 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 3. List the availability of event
+Jul 16, 2019 12:51:58 PM client.ClientImplementation listEventAvailability
+INFO: Manager printing events availability from system.
+Jul 16, 2019 1:49:44 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 16, 2019 1:49:48 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:50:11 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.
+Jul 16, 2019 1:50:13 PM client.ClientImplementation managerOperations
+INFO: Manager operation has started with manager id MTLM1234
+Jul 16, 2019 1:50:14 PM client.ClientImplementation managerOperations
+INFO: Manager selected option: 1. Add new event
+Jul 16, 2019 1:50:25 PM client.ClientImplementation addnewEvent
+INFO: Manager Adding new event from system.

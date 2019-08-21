@@ -1,0 +1,6 @@
+Jun 06, 2019 8:03:42 PM client.ClientImplementation userOperations
+INFO: User ID: TORC2345 User is allowed to perform operations in this DEMS
+Jun 06, 2019 8:03:45 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jun 06, 2019 8:03:45 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system

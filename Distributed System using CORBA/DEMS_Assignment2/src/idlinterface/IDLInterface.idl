@@ -1,0 +1,26 @@
+module IDL
+{
+interface IDLInterface
+	{
+			
+	string addEvent(in string eventId,in string eventType , in long bookingCapacity);
+	
+	string removeEvent (in string managerId, in string eventId);
+	
+	string listEventAvailability(in string eventType);
+	
+	
+	string bookEvent(in string customerId, in string eventId, in string eventType);
+	
+	string getBookingSchedule(in string customerId);
+	
+	string cancelEvent (in string customerId, in string eventType, in string eventId);
+	
+	string swapEvent(in string customerId, in string newEventId, in string newEventType, in string oldEventId, in string oldEventType);
+
+
+
+	};
+
+
+};

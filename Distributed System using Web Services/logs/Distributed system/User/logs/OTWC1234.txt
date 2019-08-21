@@ -1,0 +1,264 @@
+Jul 16, 2019 12:02:55 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:03:23 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 12:03:52 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 12:03:58 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:04:02 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 12:04:26 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 12:04:36 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:04:42 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 12:05:12 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 12:05:17 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:05:22 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 12:05:42 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 12:06:02 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:06:04 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 12:07:29 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 12:07:41 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:07:47 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 12:08:37 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 12:08:45 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:08:48 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 12:08:48 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 12:42:01 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:42:14 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 12:42:38 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 12:42:55 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:42:57 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 12:42:57 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 12:43:04 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:43:07 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 12:43:28 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 12:43:31 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:43:37 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 12:43:37 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 12:44:00 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:44:02 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 12:44:29 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 12:44:34 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:44:39 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 12:44:39 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 12:45:31 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:45:34 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 12:45:34 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 12:56:56 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:57:00 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 12:57:18 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 12:57:21 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:57:23 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 12:57:23 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 12:57:25 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:57:27 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 12:57:55 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 12:58:01 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:58:03 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 12:58:03 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 12:58:47 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 12:58:49 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 12:59:49 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 1:03:59 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:04:00 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 1:04:12 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 1:04:16 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:04:17 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 1:04:51 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 1:08:49 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:08:52 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 1:09:05 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 1:09:11 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:09:13 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 1:09:13 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 1:09:16 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:09:16 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 1:09:34 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 1:10:16 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:10:19 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 1:10:19 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 1:12:02 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:12:04 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 1:12:15 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 1:12:39 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:12:41 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 1:12:41 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 1:13:19 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:13:21 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 1:14:08 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 1:21:32 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:21:36 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 1:22:03 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 1:23:47 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:23:49 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 1:23:59 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 1:24:09 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:24:11 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 1:24:40 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 1:34:06 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:34:11 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 1:34:22 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 1:34:26 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:34:28 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 1:34:28 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 1:34:32 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:34:34 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 1:35:18 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 1:35:55 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:35:56 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 16, 2019 1:35:56 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
+Jul 16, 2019 1:36:42 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:36:44 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 1:37:37 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 16, 2019 1:46:44 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:46:50 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 16, 2019 1:46:57 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 16, 2019 1:47:00 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 16, 2019 1:47:01 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 16, 2019 1:47:47 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 20, 2019 9:06:12 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 20, 2019 9:06:49 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 20, 2019 9:06:52 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 20, 2019 9:07:06 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 20, 2019 9:07:06 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 20, 2019 9:07:07 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 20, 2019 9:07:44 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 20, 2019 9:07:46 PM client.ClientImplementation userOperations
+INFO: User selected option: 1. Book new event
+Jul 20, 2019 9:07:47 PM client.ClientImplementation bookNewEvent
+INFO: User booking new event in the system
+Jul 20, 2019 9:08:25 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 20, 2019 9:08:27 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 20, 2019 9:08:43 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 20, 2019 9:09:13 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 20, 2019 9:09:14 PM client.ClientImplementation userOperations
+INFO: User selected option: 4. Swap event
+Jul 20, 2019 9:09:26 PM client.ClientImplementation swapevent
+INFO: User cancelling booking of the event from the system
+Jul 20, 2019 9:09:41 PM client.ClientImplementation userOperations
+INFO: User ID: OTWC1234 User is allowed to perform operations in this DEMS
+Jul 20, 2019 9:09:43 PM client.ClientImplementation userOperations
+INFO: User selected option: 2. Get booking schedule
+Jul 20, 2019 9:09:43 PM client.ClientImplementation getCustomerBookingSchedule
+INFO: User getting schedule for booked events from the system
